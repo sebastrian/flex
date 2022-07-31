@@ -1,0 +1,58 @@
+cuerpo {
+  imagen de fondo :  url ( "https://images.unsplash.com/photo-1572816703439-d8b34c4dc93f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1034&q=80" );
+  color de fondo : rojo;
+  repetición de fondo : sin repetición;
+  tamaño de fondo : portada;
+}
+. caja {
+  altura :  30vh ; _
+  ancho :  100 vw ;
+}
+. contenedor1 {
+  pantalla : flexible;
+  dirección de flexión : fila;
+}
+. encabezado {
+  imagen de fondo :  url ( "https://images.unsplash.com/photo-1658901097893-cfe9605ca208?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=892&q=80" );
+  repetición de fondo : sin repetición;
+  tamaño de fondo : portada;
+  familia de fuentes : sans-serif;
+  tamaño de fuente :  36 px ;
+  peso de fuente :  800 ;
+  pantalla : flexible;
+  altura :  10vh ; _
+  ancho :  40 vw ;
+  borde :  2 px negro sólido;
+  opacidad :  0,6 ;
+}
+. menú1 {
+  imagen de fondo :  url ( "https://images.unsplash.com/photo-1658778176925-e0027cd4259a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" );
+  repetición de fondo : sin repetición;
+  tamaño de fondo : portada;
+  tamaño de fuente :  24 px ;
+  pantalla : flexible;
+  altura :  20vh ; _
+  ancho :  50 vw ;
+}
+. contenedor2 {
+  pantalla : flexible;
+  dirección de flexión : fila;
+}
+. logotipo {
+  imagen de fondo :  url ( "https://images.unsplash.com/photo-1659039807594-358e61bdfb5c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" );
+  repetición de fondo : sin repetición;
+  tamaño de fondo : portada;
+  tamaño de fuente :  24 px ;
+  pantalla : flexible;
+  altura :  20vh ; _
+  ancho :  50 vw ;
+}
+. menú2 {
+  imagen de fondo :  url ( "https://images.unsplash.com/photo-1641058910494-b441de2d5bf7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=932&q=80" );
+  repetición de fondo : sin repetición;
+  tamaño de fondo : portada;
+  tamaño de fuente :  24 px ;
+  pantalla : flexible;
+  altura :  20vh ; _
+  ancho :  50 vw ;
+}
